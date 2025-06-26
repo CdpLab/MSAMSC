@@ -1,6 +1,5 @@
-<center>
-# MSASC
-</center>
+<center># MSASC</center>
+
 This is the implementation of [A Multimodal Sentiment Analysis and Diagnostic Method of Depression based on Semantic Conflict]in PyTorch (Version 1.8.1).
 
 ## Install

@@ -2,7 +2,7 @@
 
 This is the implementation of [A Multimodal Sentiment Analysis and Diagnostic Method of Depression based on Semantic Conflict]in PyTorch (Version 1.8.1).
 
-## Install
+## Requirements
 
 ```
    pytorch-transformers==1.2.0
@@ -30,7 +30,7 @@ Download the preprocessed datasets and put them into `dataset/`.
   Please note that the dataset is available for academic research only and require approval before downloading.
   Once approved, you will be provided with a download link and further usage instructions.
 
-## Prerequisites
+## Train
 Please follow the steps below in order to be able to train our models:
 
 1 - Install Requirements

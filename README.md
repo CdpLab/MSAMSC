@@ -36,7 +36,7 @@ Please follow the steps below in order to be able to train our models:
 1 - Install Requirements
 
 ```
-pip install -r ./requirements.txt
+pip install -r requirements.txt
 ```
 
 2 - Download the preprocessed datasets and put them into `dataset/`.

@@ -1,5 +1,12 @@
-## MSASC
+#  <p align="center">Visually Impaired People Recognize Virtual Objects Through 3D Reconstructed Shapes</p>
 
+ <p align="center">Jia Liu, Yongze Li, Peng Gao, Jiaxu Ning, Lina Wei, and Dapeng Chen*</p>
+  <p align="center">Nanjing University of Information Science and Technology</p>
+
+## <p align="center">ABSTRACT</p>
+Recent studies have shown that multimodal sentiment analysis is effective for depression diagnosis. However, semantic conflicts across modalities still limit performance. To address this, we propose a semantic conflict-based multimodal sentiment analysis and depression diagnosis method. First, we used the independent component analysis decoupling model to separate the features extracted by the pre-trained model into sentiment-related and non-sentiment-related components. It enables effective extraction of emotion-relevant features while minimizing noise. Next, to tackle the issue of multimodal "semantic conflict", we design a multimodal co-fusion strategy. This strategy simulates the human brain's process of synthesizing emotional judgments based on trimodal inputs. It leverages the complementarity of semantic features to eliminate "deceptive" information across modalities, and combines interactive information between different modalities to fully extract emotional cues. Furthermore, we introduce an Emotionally constrained loss function, through which optimized training yields improved multimodal sentiment analysis performance and robustness. Experimental results show that on the CMU-MOSI dataset, our method improves the Pearson correlation coefficient (Corr) and F1-score by 5.5% and 1%, respectively. On the CMU-MOSEI dataset, it enhances Corr and F1-score by 3.6% and 1.1%, respectively. Additionally, experiments on the DAIC-WOZ dataset demonstrate that our model outperforms the best baseline. Thus, the proposed model effectively handles dynamic emotional variations in long sequences.
+
+## MSASC
 
 This is the implementation of [A Multimodal Sentiment Analysis and Diagnostic Method of Depression based on Semantic Conflict]in PyTorch (Version 1.8.1).
 

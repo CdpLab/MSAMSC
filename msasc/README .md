@@ -1,5 +1,5 @@
 # MSAMSC
-This is the implementation of [Multimodal Sentiment Analysis and Depression Diagnosis based on Semantic Conflict]in PyTorch (Version 1.8.1).
+This is the implementation of [Multimodal Sentiment Analysis and Depression Diagnosis based on Semantic Conflict] in PyTorch (Version 1.8.1).
 
 ## Install
 

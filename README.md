@@ -1,4 +1,4 @@
-#  <p align="center">Visually Impaired People Recognize Virtual Objects Through 3D Reconstructed Shapes</p>
+#  <p align="center">Multimodal Sentiment Analysis and Depression Diagnosis based on Semantic Conflict</p>
 
  <p align="center">Jia Liu, Yongze Li, Peng Gao, Jiaxu Ning, Lina Wei, and Dapeng Chen*</p>
   <p align="center">Nanjing University of Information Science and Technology</p>

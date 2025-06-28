@@ -8,7 +8,7 @@ Recent studies have shown that multimodal sentiment analysis is effective for de
 
 ## MSAMSC
 
-This is the implementation of [A Multimodal Sentiment Analysis and Diagnostic Method of Depression based on Semantic Conflict]in PyTorch (Version 1.8.1).
+This is the implementation of [Multimodal Sentiment Analysis and Depression Diagnosis based on Semantic Conflict] in PyTorch (Version 1.8.1).
 
 ## Requirements
 
